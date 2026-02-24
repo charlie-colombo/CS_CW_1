@@ -13,7 +13,7 @@ Calculates an electricity bill based on customer type and usage.
 ### 3. Employee Class
 Stores employee objects in an `ArrayList` and prints their information.
 
-### 4. Student Grade System
+### 4. Student Class
 Stores student grades, calculates the average, and finds highest/lowest grade.
 
 ## Technologies
