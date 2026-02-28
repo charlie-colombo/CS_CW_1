@@ -2,7 +2,7 @@
 
 This repository contains four Java programming exercises completed during the first semester of the Computer Science programme at Metropolitan College.
 
-## Projects
+## 📌 Projects
 
 ### 1. Password Validator
 Validates a user-entered password against specific rules.
@@ -16,11 +16,15 @@ Stores employee objects in an `ArrayList` and prints their information.
 ### 4. Student Class
 Stores student grades, calculates the average, and finds highest/lowest grade.
 
-## Technologies
+## 🛠️ Technologies
 - Java
 - IntelliJ IDEA (project structure)
 
-## What I Learned
+## 📌 How to Access the Files
+1. Open `src` folder
+2. Click on any `topic#`
+
+## 📚 What I Learned
 - Object-Oriented Programming (classes, methods)
 - Collections (`ArrayList`)
 - Conditional logic and loops
