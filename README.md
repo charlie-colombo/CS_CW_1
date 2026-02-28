@@ -1,4 +1,4 @@
-# CS Fundamentals – Semester 1 Coursework
+# Java Fundamentals – Semester 1 Coursework
 
 This repository contains four Java programming exercises completed during the first semester of the Computer Science programme at Metropolitan College.
 
