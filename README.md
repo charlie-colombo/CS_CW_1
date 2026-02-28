@@ -22,7 +22,7 @@ Stores student grades, calculates the average, and finds highest/lowest grade.
 
 ## 📌 How to Access the Files
 1. Open `src` folder
-2. Click on any `topic#`
+2. Click on any `topic#` folder to access the respective project's code
 
 ## 📚 What I Learned
 - Object-Oriented Programming (classes, methods)
